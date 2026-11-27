@@ -1,6 +1,6 @@
-# Y7 Feedback
+# floop
 
-Y7 Feedback gives product teams one place to collect, understand, discuss, and
+floop gives product teams one place to collect, understand, discuss, and
 act on user feedback.
 
 Each Project has a public feedback route, such as
